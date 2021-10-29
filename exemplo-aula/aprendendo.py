@@ -12,11 +12,11 @@ Algumas anotações sobre o funcionamento do GitHub Desktop (e do git em geral)
 
 1) Ao criar um repositório (na sua máquina, por exemplo), todas as informações, isto é, pastas, programas,
 linhas de código, etc, são automaticamente rastreadas pelo Git e apresentadas graficamente (de modo simples)
-na interface do GitHub Desktop
+na interface do GitHub Desktop.
 
 2) Mesmo que o repositório seja criado inicialmente na plataforma online do GitHub (repositório remoto), 
 ele também pode ser transmitido para a sua máquina (repositório local) com o ícone "fetch origin" + "pull"
-do GitHub Desktop
+do GitHub Desktop.
 
 3) Após cada alteração o próprio GitHub Desktop sugere os commits a serem feitos, juntamente com todas as 
 modificações feitas. É recomendável colocar um título no commit (para saber do que se trata) e,
